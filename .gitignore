@@ -1,0 +1,11 @@
+.build/
+dist/
+.DS_Store
+
+# Local credentials and reports
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+reports/
